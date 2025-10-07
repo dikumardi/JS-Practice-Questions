@@ -24,3 +24,8 @@ let answer =setInterval(function () {
     }
     
 },1000)
+
+// Display the current date and time in the console.
+let date = new Date;
+console.log(date);
+
